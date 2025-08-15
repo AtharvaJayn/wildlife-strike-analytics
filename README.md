@@ -38,12 +38,18 @@ The interactive dashboard is built using **Power BI** and embedded into the proj
 
 🔗 **[View the Live Dashboard](https://app.powerbi.com/reportEmbed?reportId=2ca1c482-2632-428e-9ca0-6ea5f4bc1a8b&autoAuth=true&ctid=1b8ae67e-321f-426c-a4a6-7605372f5e6a)**
 
-### 📷 Dashboard Screenshots
-<img width="645" height="362" alt="Image" src="https://github.com/user-attachments/assets/cfdb1b12-984f-48d7-b2e8-23c535c83cc4" />
+---
 
-<img width="645" height="362" alt="Image" src="https://github.com/user-attachments/assets/70ab9fa2-4915-4ce0-93b3-c6ab71d650f7" />
+## 📷 Dashboard Screenshots
 
-<img width="645" height="362" alt="Image" src="https://github.com/user-attachments/assets/ff434fbe-ac61-49c1-a2d0-7d0367688431" />
+| Incident Trends | Species Analysis |
+|-----------------|------------------|
+| <img width="645" height="362" alt="Dashboard 1" src="https://github.com/user-attachments/assets/cfdb1b12-984f-48d7-b2e8-23c535c83cc4" /> | <img width="645" height="362" alt="Dashboard 2" src="https://github.com/user-attachments/assets/70ab9fa2-4915-4ce0-93b3-c6ab71d650f7" /> |
+
+| Geographic View |
+|-----------------|
+| <img width="645" height="362" alt="Dashboard 3" src="https://github.com/user-attachments/assets/ff434fbe-ac61-49c1-a2d0-7d0367688431" /> |
+
 ---
 
 ## 🛠 Tools & Technologies Used
