@@ -39,7 +39,7 @@ The interactive dashboard is built using **Power BI** and embedded into the proj
 🔗 **[View the Live Dashboard](https://app.powerbi.com/reportEmbed?reportId=2ca1c482-2632-428e-9ca0-6ea5f4bc1a8b&autoAuth=true&ctid=1b8ae67e-321f-426c-a4a6-7605372f5e6a)**
 
 ### 📷 Dashboard Screenshots
-
+<img width="1290" height="724" alt="Image" src="https://github.com/user-attachments/assets/cfdb1b12-984f-48d7-b2e8-23c535c83cc4" />
 ---
 
 ## 🛠 Tools & Technologies Used
