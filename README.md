@@ -40,6 +40,10 @@ The interactive dashboard is built using **Power BI** and embedded into the proj
 
 ### 📷 Dashboard Screenshots
 <img width="1290" height="724" alt="Image" src="https://github.com/user-attachments/assets/cfdb1b12-984f-48d7-b2e8-23c535c83cc4" />
+
+<img width="1292" height="724" alt="Image" src="https://github.com/user-attachments/assets/70ab9fa2-4915-4ce0-93b3-c6ab71d650f7" />
+
+<img width="1293" height="723" alt="Image" src="https://github.com/user-attachments/assets/ff434fbe-ac61-49c1-a2d0-7d0367688431" />
 ---
 
 ## 🛠 Tools & Technologies Used
